@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "567166013780",
+    "firebase_url": "https://game-live-change-test-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "game-live-change-test",
+    "storage_bucket": "game-live-change-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567166013780:android:488d61ba2f103f63ce78c1",
+        "android_client_info": {
+          "package_name": "com.example.gamelivechange"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567166013780-h6b0g5oqvkk63e7j13q391g76tuf2p5i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFmbanEdD5X_jVEh2ce9zt1oL2ySu_Z3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567166013780-h6b0g5oqvkk63e7j13q391g76tuf2p5i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "567166013780-2stdoag1a0kv7o2muv41fq2ae4hk40lf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gamefirebaselivecheck"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567166013780:android:1b53f702e9a8dcd7ce78c1",
+        "android_client_info": {
+          "package_name": "com.example.gameproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567166013780-h6b0g5oqvkk63e7j13q391g76tuf2p5i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFmbanEdD5X_jVEh2ce9zt1oL2ySu_Z3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567166013780-h6b0g5oqvkk63e7j13q391g76tuf2p5i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "567166013780-2stdoag1a0kv7o2muv41fq2ae4hk40lf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gamefirebaselivecheck"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
